@@ -459,7 +459,7 @@ PrefabInstance:
     - target: {fileID: 4227968058143249338, guid: 8faf554f7b30e4697adb00b17a616ea4,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.20000003
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4227968058143249338, guid: 8faf554f7b30e4697adb00b17a616ea4,
         type: 3}
@@ -533,7 +533,7 @@ PrefabInstance:
     - target: {fileID: 4227968058143249338, guid: 8faf554f7b30e4697adb00b17a616ea4,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 6
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 4227968058143249338, guid: 8faf554f7b30e4697adb00b17a616ea4,
         type: 3}
@@ -679,7 +679,7 @@ PrefabInstance:
     - target: {fileID: 4227968058143249338, guid: 8faf554f7b30e4697adb00b17a616ea4,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -4.02
+      value: -4
       objectReference: {fileID: 0}
     - target: {fileID: 4227968058143249338, guid: 8faf554f7b30e4697adb00b17a616ea4,
         type: 3}
@@ -845,7 +845,7 @@ PrefabInstance:
     - target: {fileID: 4227968058143249338, guid: 8faf554f7b30e4697adb00b17a616ea4,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 3.98
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 4227968058143249338, guid: 8faf554f7b30e4697adb00b17a616ea4,
         type: 3}
@@ -1278,6 +1278,11 @@ PrefabInstance:
       propertyPath: m_Color.a
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 5096232421927410442, guid: 4fa5f491b436c45feba7cfa2e5f9c713,
+        type: 3}
+      propertyPath: m_PixelPerfect
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fa5f491b436c45feba7cfa2e5f9c713, type: 3}
 --- !u!1001 &7400021801334200848
@@ -1295,7 +1300,7 @@ PrefabInstance:
     - target: {fileID: 4227968058143249338, guid: 8faf554f7b30e4697adb00b17a616ea4,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.02
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4227968058143249338, guid: 8faf554f7b30e4697adb00b17a616ea4,
         type: 3}
